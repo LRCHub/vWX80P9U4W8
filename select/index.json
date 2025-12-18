@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "I'll believe",
+  "base_artist": "ALTIMA",
+  "createdAt": "2025-12-18T13:45:45.354627Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Believe In Anything",
+      "artist": "Wolf Parade",
+      "has_synced": true,
+      "path": "select/01_I'll_Believe_In_Anything_Wolf_Parade.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Believe It When I Feel It",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/02_I'll_Believe_It_When_I_Feel_It_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Believe It When I See It",
+      "artist": "Gilbert O'Sullivan",
+      "has_synced": false,
+      "path": "select/03_I'll_Believe_It_When_I_See_It_Gilbert_O'Sullivan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Believe You When",
+      "artist": "Matchbox Twenty",
+      "has_synced": true,
+      "path": "select/04_I'll_Believe_You_When_Matchbox_Twenty.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Believe In You (Or I'll Be Leaving You Tonight)",
+      "artist": "The Tragically Hip",
+      "has_synced": true,
+      "path": "select/05_I'll_Believe_In_You_(Or_I'll_Be_Leaving_You_Tonight)_The_Tragically_Hip.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'll Believe It When I See It",
+      "artist": "Gilbert O'sullivan",
+      "has_synced": true,
+      "path": "select/06_I'll_Believe_It_When_I_See_It_Gilbert_O'sullivan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "That's When I'll Believe That You're Gone",
+      "artist": "Craig Morgan",
+      "has_synced": true,
+      "path": "select/07_That's_When_I'll_Believe_That_You're_Gone_Craig_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'll Believe You When",
+      "artist": "Matchbox 20",
+      "has_synced": true,
+      "path": "select/08_I'll_Believe_You_When_Matchbox_20.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "That's When I'll Believe You're Gone",
+      "artist": "Craig Morgan",
+      "has_synced": true,
+      "path": "select/09_That's_When_I'll_Believe_You're_Gone_Craig_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I’ll Believe You",
+      "artist": "Leonardo’s Bride",
+      "has_synced": false,
+      "path": "select/10_I’ll_Believe_You_Leonardo’s_Bride.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'll believe",
+      "artist": "ALTIMA",
+      "has_synced": true,
+      "path": "select/11_I'll_believe_ALTIMA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ill believe",
+      "artist": "altima",
+      "has_synced": true,
+      "path": "select/12_ill_believe_altima.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'll Believe You When",
+      "artist": "Matchbox Twenty",
+      "has_synced": true,
+      "path": "select/13_I'll_Believe_You_When_Matchbox_Twenty.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'll believe",
+      "artist": "ALTIMA",
+      "has_synced": true,
+      "path": "select/14_I'll_believe_ALTIMA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'll believe",
+      "artist": "ALTIMA",
+      "has_synced": false,
+      "path": "select/pl_01_I'll_believe_ALTIMA.txt"
+    }
+  ]
+}
